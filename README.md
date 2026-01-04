@@ -12,10 +12,6 @@ This project performs a three-dimensional Computational Fluid Dynamics (CFD) sim
 
 ## 📊 Results & Post-Processing
 
-### 📸 Visualizations
-| Velocity Contour | Pressure Contour |
-| :---: | :---: |
-| ![Velocity Contour](https://placehold.co/600x400?text=Insert+Velocity+Contour+Image) | ![Pressure Contour](https://placehold.co/600x400?text=Insert+Pressure+Contour+Image) |
 
 ## 🚀 Repository Contents
 * `Project.wbpj`: Ansys Workbench Project file.
